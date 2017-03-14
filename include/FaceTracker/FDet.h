@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __FDet_h_
 #define __FDet_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/IO.h>
 namespace FACETRACKER
 {

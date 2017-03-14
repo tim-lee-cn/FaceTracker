@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __PDM_h_
 #define __PDM_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/IO.h>
 namespace FACETRACKER
 {

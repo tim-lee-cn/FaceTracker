@@ -37,6 +37,7 @@
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF 
 // THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ///////////////////////////////////////////////////////////////////////////////
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/FDet.h>
 using namespace FACETRACKER;
 using namespace std;

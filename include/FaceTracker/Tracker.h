@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __Tracker_h_
 #define __Tracker_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/CLM.h>
 #include <FaceTracker/FDet.h>
 #include <FaceTracker/FCheck.h>

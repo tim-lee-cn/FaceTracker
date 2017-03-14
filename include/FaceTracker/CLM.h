@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __CLM_h_
 #define __CLM_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/PDM.h>
 #include <FaceTracker/Patch.h>
 #include <vector>

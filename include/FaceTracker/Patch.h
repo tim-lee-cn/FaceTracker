@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __Patch_h_
 #define __Patch_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/IO.h>
 namespace FACETRACKER
 {

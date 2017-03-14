@@ -39,6 +39,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 #ifndef __PAW_h_
 #define __PAW_h_
+#include <opencv2/opencv.hpp>
 #include <FaceTracker/IO.h>
 namespace FACETRACKER
 {
